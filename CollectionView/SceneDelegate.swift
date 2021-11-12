@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  CollectionView
-//
-//  Created by Danil Ryumin on 12.11.2021.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
